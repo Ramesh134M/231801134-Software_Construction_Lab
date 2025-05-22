@@ -1,13 +1,13 @@
-#Student Data Management System (SDMS)
+Student Data Management System (SDMS)
 This project is a Student Data Management System (SDMS) built using Node.js for the backend and HTML, CSS, and JavaScript for the frontend. The system allows users to manage student data, including adding, viewing, and deleting student records.
-#Features
+Features
 User Authentication: Login functionality to access the student data management system.
 CRUD Operations:
 Add new student records.
 View existing student records.
 Delete student records.
 Responsive Frontend: Designed using HTML, CSS, and JavaScript for an intuitive interface.
-#Tech Stack
+Tech Stack
 Backend:
 
 Node.js
@@ -21,6 +21,6 @@ JavaScript
 Hosting:
 
 Azure Web Apps (for deployment)
-#Project Structure
+Project Structure
 The project is organized into the following directories:
 
